@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Narkwhal
 ---
 
 This is a blank Quartz installation.
