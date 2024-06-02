@@ -2,7 +2,7 @@
 title: Hello, I am Alex
 ---
 
-This is where I store my notes around tech, customer success, and even some creative writing.
+### This is where I store my notes around tech, customer success, and even some creative writing.
 
 ## Tech Goals
 
