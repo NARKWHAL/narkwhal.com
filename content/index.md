@@ -39,3 +39,24 @@ Offsec is last mostly because of the ***HORRENDOUS*** cost of their certificatio
 - [ ] [Offsec - OSCE3 Certification](https://www.offsec.com/certificates/osce3/)
 
 
+## Physical Health Goals
+
+### Summary
+Working office jobs has not made me the healthiest person in the world. I need to start being aware of what I eat, how much I eat, and when I eat. I also need to be more active.
+
+### Current Working Goal
+- [ ] Walk 10k Steps a day everyday for one month
+- [ ] Get to 215 pounds
+
+### One Year Goals (Due June 1st 2025)
+- [ ] Get to 170 pounds
+- [ ] Avg 15k steps a day
+- [ ] Run a sub 40 min 5k
+
+### Two Year Goals (Due June 1st, 2026)
+- [ ] Maintain a weight lower than 175 Pounds
+- [ ] Be able to run everyday
+- [ ] Run a 10k
+
+### Five Year Goals (Due June 1st, 2029)
+- [ ] Run a marathon
