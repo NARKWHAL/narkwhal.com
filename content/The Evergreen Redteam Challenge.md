@@ -29,7 +29,7 @@ This phase is all about taking the training wheels off from the videos of the la
 1) [HTB - Certified Penetration Testing Specialist (HTB-CPTS) - 490](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist)
 		I mean I do not know what else to say here other than you are going to play with Active directory again. Also I havent taken any of these yet so I do not know why I am providing a summary.
 
-## Phase 3: Entry Level Professional - $998 ($1,247*)
+## Phase 3: Entry Level Professional - $998  ($1,247)
 
 By the end of this phase you should be able to go out there and become the penetration tester you were dreaming of when starting TERC if you were not already. This phase is a little bit different since its the only phase that has an optional certification, a little certy treat if you will. Also, the first certification to take in this phase is not even out yet at the time of me writing this.
 
