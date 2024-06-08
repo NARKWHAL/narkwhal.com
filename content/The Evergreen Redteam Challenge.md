@@ -46,7 +46,7 @@ I am sure you saw this coming by now. Its time to go pay Offsec certifications a
 
 1) [Offsec - Offsec Web Assessor (OSWA) - $1,649](https://www.offsec.com/courses/web-200/)
 		I mean we came this far with the web testing. No reason not to get this guy as well.
-1) [Offsec - Offsec Certified Professional (OSCP) - $1,649](https://www.offsec.com/courses/pen-200/)
+2) [Offsec - Offsec Certified Professional (OSCP) - $1,649](https://www.offsec.com/courses/pen-200/)
 		Active Directory but now $1,649.
 
 ## Phase 5: Get promoted 
