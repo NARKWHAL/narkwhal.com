@@ -29,7 +29,7 @@ This phase is all about taking the training wheels off from the videos of the la
 1) [HTB - Certified Penetration Testing Specialist (HTB-CPTS) - 490](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist)
 		I mean I do not know what else to say here other than you are going to play with Active directory again. Also I havent taken any of these yet so I do not know why I am providing a summary.
 
-## Phase 3: Entry Level Professional - $998  or $1,247
+## Phase 3: Entry Level Professional - $1,247
 
 By the end of this phase you should be able to go out there and become the penetration tester you were dreaming of when starting TERC if you were not already. This phase is a little bit different since its the only phase that has an optional certification, a little certy treat if you will. Also, the first certification to take in this phase is not even out yet at the time of me writing this.
 
@@ -46,14 +46,22 @@ I am sure you saw this coming by now. Its time to go pay Offsec certifications a
 
 1) [Offsec - Offsec Web Assessor (OSWA) - $1,649](https://www.offsec.com/courses/web-200/)
 		I mean we came this far with the web testing. No reason not to get this guy as well.
-2) [Offsec - Offsec Certified Professional (OSCP) - $1,649](https://www.offsec.com/courses/pen-200/)
+1) [Offsec - Offsec Certified Professional (OSCP) - $1,649](https://www.offsec.com/courses/pen-200/)
 		Active Directory but now $1,649.
 
 ## Phase 5: Get promoted 
 
-#todo
+This is a weird and expensive a portion because it has three certifications. 
 
+1) HTB - Certified Web Exploitation Expert (HTB-CWEE)
+2) Offsec - Offsec Experianced Pentester (OSEP)
+3) Offsec - Offsec Web Expert (OSWE)
 ## Phase 6: Good job! Here's a coin.
+
+Now that we have gone so far into pen testing and web exploitation we need a new challenge! One that might make us question why we are doing this. Hell, if you made it here already you might as well finish it. For this challenge we are going to try to finish off the OSCE3 certifications by learning assembly and malware and all that jazz.
+
+1. [TCM - Practical Junior Malware Researcher (PJMR) - $399](https://certifications.tcm-sec.com/pjmr/)This is the only Malware certification lower then the next one I could find to try to help prep fpr it
+3. [OffSec - Offsec Explot Developer (OSED) - ?](https://www.offsec.com/courses/exp-301/) I added a question mark for price because Just might forkover the year for that one.
 
 #todo
 
