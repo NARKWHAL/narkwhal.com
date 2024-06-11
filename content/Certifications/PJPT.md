@@ -5,8 +5,12 @@ The Practical Junior Penetration Tester (PJPT) Is a certification offered by TCM
 
 - [[Networking]]
 	- IP Addresses
+	- CIDR ranges/Subnets
+	- OSI Model 
+	- 
 
 
 ## Journal
-- Day Two - 
+- Day Three - [[Jun 11, 2024]]
+- Day Two - [[Jun 10, 2024]]
 - Day One - [[Jun 09, 2024]]
