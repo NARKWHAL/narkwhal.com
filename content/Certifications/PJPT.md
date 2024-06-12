@@ -11,6 +11,7 @@ The Practical Junior Penetration Tester (PJPT) Is a certification offered by TCM
 
 
 ## Journal
+- Day Four - [[Jun 12, 2024]]
 - Day Three - [[Jun 11, 2024]]
 - Day Two - [[Jun 10, 2024]]
 - Day One - [[Jun 09, 2024]]
