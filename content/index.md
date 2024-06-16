@@ -6,4 +6,4 @@ title: Hello, I am Alex
 
 Chances are if you are here then you are probably me going over my notes or a possible employer I sent the link too since this is my personal site.
 
-I am currently putting together/doing [[The Evergreen Redteam Challenge]]
+I am currently putting together/doing [[Certification School]]
