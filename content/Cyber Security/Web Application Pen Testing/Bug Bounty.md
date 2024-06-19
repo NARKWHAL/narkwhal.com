@@ -10,6 +10,10 @@ Bug Bounty Hunting is a subset of Web Application penetration testing and is foc
 5) Do it every day
 6) Dedicate time to learn new vulnerabilities.
 
+## Starting an Engagement
+- Make sure to fuzz within scope
+- Create Multiple accounts to test for IDOR
+
 ## Writing a Report
 
 
