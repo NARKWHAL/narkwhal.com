@@ -7,3 +7,11 @@ ffuf -request tmp.txt -request-proto http -mode clusterbomb -w /usr/share/seclis
 ```
 
 Learn more here: [[Jun 19, 2024]]
+
+## IDOR account number scanning
+
+```bash
+ffuf -u 'http://localhost/labs/e0x02.php?account=FUZZ' -w numbers.txt -mr 'admin'
+```
+
+Learn more here: [[Jun 20, 2024]]
