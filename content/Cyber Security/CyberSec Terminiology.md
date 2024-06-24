@@ -25,11 +25,3 @@
 	- Mitigation
 		- Limiting the impact that a risk would have if it happened. Fixing bugs etc
 
-## Threat Modeling
-- Analyzing a system from the perspective of an advisary
-- Popular modeling methods are 
-	- PASTA
-	- STRIDE
-	- VAST
-- Threat modeling should be part of dev process and threats should be ranked
-- 
