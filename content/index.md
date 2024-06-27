@@ -4,9 +4,8 @@ title: Hello, I am Alex Costa
 
 ### This is my [digital garden](https://github.com/MaggieAppleton/digital-gardeners) mostly around tech and other things of interest.
 
+I have been in tech now for eight years mostly in customer facing technical roles. 
 
-Chances are if you are here then you are probably me going over my notes or a possible employer I sent the link too since this is my personal site. If not and you want to connect on Linked in feel free to follow me [here](https://www.linkedin.com/in/alexmcosta/)
+I am currently working on my [[PJWT]] certification from a heightened interest on application pen testing lately.
 
-Currently working on my [[PJWT]] certification
-
-I am currently learning and trying to adapt to using a Digital Garden which organization wise is a little hard.
+That is all I really have to say about myself right now.
