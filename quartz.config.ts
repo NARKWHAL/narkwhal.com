@@ -11,9 +11,7 @@ const config: QuartzConfig = {
     pageTitle: "🦄Narkwhal🐳",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-     { provider: 'tinylytics', siteId: '3z-viS6sgTd-Ah7x51qe' },
-    },
+    analytics: { provider: 'tinylytics', siteId: '3z-viS6sgTd-Ah7x51qe' },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
