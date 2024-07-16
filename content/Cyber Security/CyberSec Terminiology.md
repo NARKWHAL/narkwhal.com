@@ -25,3 +25,5 @@
 	- Mitigation
 		- Limiting the impact that a risk would have if it happened. Fixing bugs etc
 
+## #IOC 
+- Indicators of Compromise
