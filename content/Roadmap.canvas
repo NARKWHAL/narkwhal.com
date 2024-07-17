@@ -12,18 +12,22 @@
 		{"id":"3c2df8d9d537cba0","type":"text","text":"Phase 3 ","x":-114,"y":380,"width":250,"height":60},
 		{"id":"312b23e968ba48f3","type":"file","file":"screenshots/OSEP.D_R8bS1A_Z1JYK2E.svg","x":65,"y":500,"width":160,"height":185},
 		{"id":"02c4daf6f8fa37df","type":"file","file":"screenshots/OSWE.DI54Eyvq_Zo5ESJ.svg","x":273,"y":500,"width":160,"height":185},
-		{"id":"62d4120000257193","type":"file","file":"screenshots/wargames_cert_hash.png","x":-87,"y":880,"width":233,"height":176},
 		{"id":"5193454dac9eeffa","type":"text","text":"Offsec Learning Path - 0 to OSCE3","x":-156,"y":-500,"width":316,"height":60},
 		{"id":"920cb969f485d629","type":"file","file":"screenshots/osce3.webp","x":-84,"y":-420,"width":164,"height":164},
-		{"id":"d7a4df7efeaa7e75","type":"file","file":"screenshots/630762902ba8f202456124.png","x":-580,"y":-140,"width":153,"height":153},
-		{"id":"499228193f39b66b","type":"file","file":"screenshots/61f11f7719dd3800707549.png","x":-585,"y":162,"width":158,"height":158},
-		{"id":"89e68be7bd2f7ab7","type":"file","file":"screenshots/PJMR-250x250-1.webp","x":-325,"y":879,"width":176,"height":176},
-		{"id":"6495dad4eec7f10f","type":"file","file":"screenshots/OSED.XKmYW6Ds_ZGw05i.svg","x":207,"y":878,"width":153,"height":177},
-		{"id":"524a7accdc530048","type":"file","file":"screenshots/6538cdc4f026e102488580.png","x":-607,"y":877,"width":178,"height":178},
 		{"id":"3dd0ba2438fccbd4","type":"file","file":"screenshots/PJOR-250x250-webp.webp","x":284,"y":-137,"width":146,"height":146},
 		{"id":"72480728ac703078","type":"text","text":"Phase 1 ","x":-114,"y":-240,"width":250,"height":60},
-		{"id":"deabf3396260284c","type":"text","text":"Phase 4 - This part will probably change","x":-167,"y":760,"width":356,"height":60},
-		{"id":"cf7209902cd9fcbc","type":"file","file":"screenshots/312krCbLBwwnMN1uaOXohoEjSE6Fb8ljaXi7B4zL.webp","x":277,"y":161,"width":160,"height":160}
+		{"id":"deabf3396260284c","type":"text","text":"Phase 4 - Code","x":-167,"y":760,"width":356,"height":60},
+		{"id":"cf7209902cd9fcbc","type":"file","file":"screenshots/312krCbLBwwnMN1uaOXohoEjSE6Fb8ljaXi7B4zL.webp","x":277,"y":161,"width":160,"height":160},
+		{"id":"62d4120000257193","type":"file","file":"screenshots/wargames_cert_hash.png","x":109,"y":1280,"width":233,"height":176},
+		{"id":"6495dad4eec7f10f","type":"file","file":"screenshots/OSED.XKmYW6Ds_ZGw05i.svg","x":433,"y":1279,"width":153,"height":177},
+		{"id":"524a7accdc530048","type":"file","file":"screenshots/6538cdc4f026e102488580.png","x":263,"y":875,"width":158,"height":158},
+		{"id":"d7a4df7efeaa7e75","type":"file","file":"screenshots/630762902ba8f202456124.png","x":-349,"y":888,"width":145,"height":145},
+		{"id":"499228193f39b66b","type":"file","file":"screenshots/61f11f7719dd3800707549.png","x":-49,"y":875,"width":158,"height":158},
+		{"id":"b4149b6137d615ad","x":-114,"y":1120,"width":250,"height":60,"type":"text","text":"Phase 5 - Malware will probably change"},
+		{"id":"fc724bb8a22b42d8","x":-820,"y":1280,"width":176,"height":176,"type":"file","file":"mvre-vulnerability-researcher-and-exploitation-specialist.png"},
+		{"id":"89e68be7bd2f7ab7","type":"file","file":"screenshots/PJMR-250x250-1.webp","x":-580,"y":1279,"width":176,"height":176},
+		{"id":"e869b3233bd92679","x":-349,"y":1279,"width":175,"height":175,"type":"file","file":"mre-certified-reverse-engineer.png"},
+		{"id":"630e83c872057c4d","x":-114,"y":1281,"width":175,"height":175,"type":"file","file":"mcd-certified-code-deobfuscation-specialist.png"}
 	],
 	"edges":[
 		{"id":"cb6b0cf9739aebc0","fromNode":"e78c4f066f97744e","fromSide":"right","toNode":"f48227e32d64568c","toSide":"left"},
@@ -35,7 +39,6 @@
 		{"id":"52d452cc8b10c4d1","fromNode":"7c87171a81a2dbf1","fromSide":"right","toNode":"9934a3127f75c02e","toSide":"left"},
 		{"id":"a6ff127f8c60b9e6","fromNode":"9934a3127f75c02e","fromSide":"right","toNode":"312b23e968ba48f3","toSide":"left"},
 		{"id":"e8029ed5abae60ab","fromNode":"312b23e968ba48f3","fromSide":"right","toNode":"02c4daf6f8fa37df","toSide":"left"},
-		{"id":"f018152fafe39007","fromNode":"89e68be7bd2f7ab7","fromSide":"right","toNode":"62d4120000257193","toSide":"left"},
 		{"id":"e90e0e2c6371b7ae","fromNode":"62d4120000257193","fromSide":"right","toNode":"6495dad4eec7f10f","toSide":"left"}
 	]
 }
