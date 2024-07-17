@@ -27,3 +27,6 @@
 
 ## #IOC 
 - Indicators of Compromise
+
+## #DAC
+-[ Discretionary Access Control](https://csrc.nist.gov/glossary/term/discretionary_access_control)
