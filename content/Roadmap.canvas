@@ -23,11 +23,11 @@
 		{"id":"524a7accdc530048","type":"file","file":"screenshots/6538cdc4f026e102488580.png","x":263,"y":875,"width":158,"height":158},
 		{"id":"d7a4df7efeaa7e75","type":"file","file":"screenshots/630762902ba8f202456124.png","x":-349,"y":888,"width":145,"height":145},
 		{"id":"499228193f39b66b","type":"file","file":"screenshots/61f11f7719dd3800707549.png","x":-49,"y":875,"width":158,"height":158},
-		{"id":"b4149b6137d615ad","x":-114,"y":1120,"width":250,"height":60,"type":"text","text":"Phase 5 - Malware will probably change"},
-		{"id":"fc724bb8a22b42d8","x":-820,"y":1280,"width":176,"height":176,"type":"file","file":"mvre-vulnerability-researcher-and-exploitation-specialist.png"},
+		{"id":"b4149b6137d615ad","type":"text","text":"Phase 5 - Malware will probably change","x":-114,"y":1120,"width":250,"height":60},
+		{"id":"fc724bb8a22b42d8","type":"file","file":"screenshots/mvre-vulnerability-researcher-and-exploitation-specialist.png","x":-820,"y":1280,"width":176,"height":176},
 		{"id":"89e68be7bd2f7ab7","type":"file","file":"screenshots/PJMR-250x250-1.webp","x":-580,"y":1279,"width":176,"height":176},
-		{"id":"e869b3233bd92679","x":-349,"y":1279,"width":175,"height":175,"type":"file","file":"mre-certified-reverse-engineer.png"},
-		{"id":"630e83c872057c4d","x":-114,"y":1281,"width":175,"height":175,"type":"file","file":"mcd-certified-code-deobfuscation-specialist.png"}
+		{"id":"e869b3233bd92679","type":"file","file":"screenshots/mre-certified-reverse-engineer.png","x":-349,"y":1279,"width":175,"height":175},
+		{"id":"630e83c872057c4d","type":"file","file":"screenshots/mcd-certified-code-deobfuscation-specialist.png","x":-114,"y":1281,"width":175,"height":175}
 	],
 	"edges":[
 		{"id":"cb6b0cf9739aebc0","fromNode":"e78c4f066f97744e","fromSide":"right","toNode":"f48227e32d64568c","toSide":"left"},

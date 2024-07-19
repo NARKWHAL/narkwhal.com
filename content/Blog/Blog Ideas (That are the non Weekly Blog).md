@@ -1,0 +1,2 @@
+- [ ] Posting your notes online with Obsidian
+- [ ] My Path to OSCE3
