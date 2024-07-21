@@ -4,9 +4,6 @@
 		{"id":"f48227e32d64568c","type":"file","file":"screenshots/PJWT-Logo-1.webp","x":-160,"y":-140,"width":152,"height":152},
 		{"id":"a5fd58848613d591","type":"file","file":"screenshots/PJPT-250x250-1 1.webp","x":60,"y":-140,"width":152,"height":152},
 		{"id":"c518fdd4d68570c5","type":"text","text":"Phase 2 ","x":-114,"y":60,"width":250,"height":60},
-		{"id":"8d830587eca967e3","type":"file","file":"screenshots/PWPT-logo-webp-400x400 1.webp","x":-364,"y":160,"width":160,"height":160},
-		{"id":"33933541a5e8d867","type":"file","file":"screenshots/PNPT-250x250-1.webp","x":-149,"y":160,"width":160,"height":160},
-		{"id":"79808de530da3327","type":"file","file":"screenshots/34Usv5yEMMlzoADpEcxNrbASpMKwU660cNHAW0no.webp","x":60,"y":162,"width":158,"height":158},
 		{"id":"7c87171a81a2dbf1","type":"file","file":"screenshots/OSCP.D0Wrgjqy_2lOY92.svg","x":-364,"y":500,"width":160,"height":185},
 		{"id":"9934a3127f75c02e","type":"file","file":"screenshots/OSWA.6uXwmnfK_2tVRF1.svg","x":-149,"y":500,"width":160,"height":185},
 		{"id":"3c2df8d9d537cba0","type":"text","text":"Phase 3 ","x":-114,"y":380,"width":250,"height":60},
@@ -27,18 +24,21 @@
 		{"id":"fc724bb8a22b42d8","type":"file","file":"screenshots/mvre-vulnerability-researcher-and-exploitation-specialist.png","x":-820,"y":1280,"width":176,"height":176},
 		{"id":"89e68be7bd2f7ab7","type":"file","file":"screenshots/PJMR-250x250-1.webp","x":-580,"y":1279,"width":176,"height":176},
 		{"id":"e869b3233bd92679","type":"file","file":"screenshots/mre-certified-reverse-engineer.png","x":-349,"y":1279,"width":175,"height":175},
-		{"id":"630e83c872057c4d","type":"file","file":"screenshots/mcd-certified-code-deobfuscation-specialist.png","x":-114,"y":1281,"width":175,"height":175}
+		{"id":"630e83c872057c4d","type":"file","file":"screenshots/mcd-certified-code-deobfuscation-specialist.png","x":-114,"y":1281,"width":175,"height":175},
+		{"id":"79808de530da3327","type":"file","file":"screenshots/34Usv5yEMMlzoADpEcxNrbASpMKwU660cNHAW0no.webp","x":-386,"y":159,"width":158,"height":158},
+		{"id":"33933541a5e8d867","type":"file","file":"screenshots/PNPT-250x250-1.webp","x":-168,"y":159,"width":160,"height":160},
+		{"id":"8d830587eca967e3","type":"file","file":"screenshots/PWPT-logo-webp-400x400 1.webp","x":60,"y":157,"width":160,"height":160}
 	],
 	"edges":[
 		{"id":"cb6b0cf9739aebc0","fromNode":"e78c4f066f97744e","fromSide":"right","toNode":"f48227e32d64568c","toSide":"left"},
 		{"id":"aee03c5cf488caec","fromNode":"f48227e32d64568c","fromSide":"right","toNode":"a5fd58848613d591","toSide":"left"},
 		{"id":"7acbec6f84f07e24","fromNode":"a5fd58848613d591","fromSide":"right","toNode":"3dd0ba2438fccbd4","toSide":"left"},
-		{"id":"264af0209275fe94","fromNode":"8d830587eca967e3","fromSide":"right","toNode":"33933541a5e8d867","toSide":"left"},
-		{"id":"5c96e9d6eb8329a1","fromNode":"33933541a5e8d867","fromSide":"right","toNode":"79808de530da3327","toSide":"left"},
-		{"id":"2c7be39132b15708","fromNode":"79808de530da3327","fromSide":"right","toNode":"cf7209902cd9fcbc","toSide":"left"},
 		{"id":"52d452cc8b10c4d1","fromNode":"7c87171a81a2dbf1","fromSide":"right","toNode":"9934a3127f75c02e","toSide":"left"},
 		{"id":"a6ff127f8c60b9e6","fromNode":"9934a3127f75c02e","fromSide":"right","toNode":"312b23e968ba48f3","toSide":"left"},
 		{"id":"e8029ed5abae60ab","fromNode":"312b23e968ba48f3","fromSide":"right","toNode":"02c4daf6f8fa37df","toSide":"left"},
-		{"id":"e90e0e2c6371b7ae","fromNode":"62d4120000257193","fromSide":"right","toNode":"6495dad4eec7f10f","toSide":"left"}
+		{"id":"e90e0e2c6371b7ae","fromNode":"62d4120000257193","fromSide":"right","toNode":"6495dad4eec7f10f","toSide":"left"},
+		{"id":"ace70c2dd5db2d1d","fromNode":"79808de530da3327","fromSide":"right","toNode":"33933541a5e8d867","toSide":"left"},
+		{"id":"d009254e03035cdd","fromNode":"33933541a5e8d867","fromSide":"right","toNode":"8d830587eca967e3","toSide":"left"},
+		{"id":"d1262f4385617aa5","fromNode":"8d830587eca967e3","fromSide":"right","toNode":"cf7209902cd9fcbc","toSide":"left"}
 	]
 }
