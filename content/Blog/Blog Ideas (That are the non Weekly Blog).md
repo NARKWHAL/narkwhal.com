@@ -1,2 +1,5 @@
 - [ ] Posting your notes online with Obsidian
 - [ ] My Path to OSCE3
+- [ ] All the default local groups of windows machines and their access
+- [ ] Windows UAC
+- [ ] About the ```net``` command
