@@ -3,3 +3,5 @@
 - [ ] All the default local groups of windows machines and their access
 - [ ] Windows UAC
 - [ ] About the ```net``` command
+- [ ] mutexes
+- [ ] Windows Registry
